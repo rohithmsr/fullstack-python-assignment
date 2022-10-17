@@ -1,0 +1,9 @@
+name,type,price,quantity,stock,image
+Bread,Bakery,30,1,10,bread.png
+Bun,Bakery,13,1,30,bun.png
+Rice,Cereals,69,3,6,rice.png
+Wheat,Cereals,45,3,100,wheat.png
+Panneer,Dairy,100,1,4,panneer.png
+Ghee,Dairy,9,1,30,ghee.png
+Frozen Paratha,Frozen Items,69,100,6,frozenparatha.png
+Frozen Chicken,Frozen Items,45,30,100,frozenchicken.png
